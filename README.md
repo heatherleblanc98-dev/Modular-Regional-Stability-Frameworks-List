@@ -8,4 +8,4 @@ Review Status: These documents are advanced review versions and should not be co
 
 Editorial Review Pending: A final editorial and technical consistency review is currently pending and will be completed within the next 24 hours.
 
-Supplemental Files: Additional supporting documentation and appendices may be submitted during this 24-hour window to complete the full package
+Supplemental Files: Additional supporting documentation and appendices may be submitted during this 24-hour window to complete the full package.
