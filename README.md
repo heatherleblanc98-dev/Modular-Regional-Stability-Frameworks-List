@@ -2,9 +2,9 @@ This repository hosts a curated compendium of modular diplomatic reference frame
 
 Drafter's Note: 
 
-Drafts submitted. Final editorial and consistency review pending within 24 hours. More documents may be submitted during this time. These documents should be considered review versions and not final texts. Revisions may be made following final verification.
+Drafts pending. Final editorial and consistency review pending within 24 hours. Additional documents may be submitted during this time. These documents should be considered review versions and not final texts. Revisions may be made following final verification.
 
-Review Status: These documents are advanced review versions and should not be considered final, locked texts.
+Review Status: Any documents submitted within this timeframe are advanced review versions and should not be considered final, locked texts.
 
 Editorial Review Pending: A final editorial and technical consistency review is currently pending and will be completed within the next 24 hours.
 
