@@ -1,6 +1,4 @@
 This repository hosts a curated compendium of modular diplomatic reference frameworks—including the Crescent Compact, RAMES, PRAIS, and RCSA—engineered to address the Middle East's complex nuclear, security, economic, and humanitarian challenges. Moving away from fragile "grand bargains," these documents propose resilient, multi-actor architectures built on pragmatic principles like synchronized compliance cycles, distributed peer-enforcement, and layered legitimacy. Complete with master treaties, optional annexes, and strategic negotiator's briefs, this collection serves as a practical toolkit for diplomats, policymakers, and researchers exploring hardened, politically viable pathways to regional stabilization.
 
-Drafter's Note: 
 
-Any uploaded documents are offered strictly in good faith as independent technical resources. They are intended for consideration only if and when official channels encounter an otherwise unresolvable standstill. These materials are entirely subordinate to the formal process and do not substitute for the expertise of professional negotiators. If official talks are progressing, these concepts should be set aside; if the process becomes stuck, any proposed architecture is preserved solely to offer a potential path toward synchronization.
 
