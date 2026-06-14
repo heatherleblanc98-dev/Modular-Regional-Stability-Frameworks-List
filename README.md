@@ -2,5 +2,5 @@ This repository hosts a curated compendium of modular diplomatic reference frame
 
 Drafter's Note: 
 
-These materials are offered in a spirit of good faith, for consideration only if, and when official channels reach a standstill. They are not a substitute for the expertise of professional negotiators, or the integrity of the formal process. If the talks are progressing, please set these aside. If they are stuck, perhaps a spark lies within.
+Any documents uploaded are offered strictly in the spirit of good faith, as an independent technical resource. It is intended for consideration, only if, and when official channels encounter an otherwise unresolvable standstill. These materials are entirely subordinate to the formal process, and are not a substitute for the expertise of professional negotiators. If official talks are progressing, these concepts should be set aside; if the process becomes stuck, any architecture is preserved solely to offer a potential path towards synchronization.
 
